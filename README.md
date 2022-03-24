@@ -6,4 +6,4 @@ A win form application, to demo how to call different Azure AI services.  It is 
 
 ![This is screen shot of the application](https://github.com/mvpkenlin/GlobalAIBootcmp2022_demo/blob/main/assets/images/screen02.png)
 
-![This is screen shot of the application](/main/assets/images/screen03.png)
+![This is screen shot of the application](/assets/images/screen03.png)
